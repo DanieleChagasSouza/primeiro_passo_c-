@@ -1,0 +1,15 @@
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\bin\Debug\net8.0\Projeto c#.exe
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\bin\Debug\net8.0\Projeto c#.deps.json
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\bin\Debug\net8.0\Projeto c#.runtimeconfig.json
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\bin\Debug\net8.0\Projeto c#.dll
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\bin\Debug\net8.0\Projeto c#.pdb
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.AssemblyInfoInputs.cache
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.AssemblyInfo.cs
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.sourcelink.json
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.dll
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\refint\Projeto c#.dll
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.pdb
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\Projeto c#.genruntimeconfig.cache
+C:\Users\Daniele\OneDrive\Área de Trabalho\Projeto c#\obj\Debug\net8.0\ref\Projeto c#.dll
